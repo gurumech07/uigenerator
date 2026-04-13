@@ -1,0 +1,49 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e51]:
+            - generic [ref=e54]: Create a user profile card component with an avatar, name, title, and some stats like followers and following counts
+            - img [ref=e57]
+          - generic [ref=e73]:
+            - img [ref=e76]
+            - generic [ref=e81]:
+              - generic [ref=e84]: str_replace_editor
+              - separator [ref=e85]
+              - paragraph [ref=e87]: Done! Created a profile card with avatar, name, title, follower/following/post stats, and action buttons. Includes hover effects, dark mode support, and keyboard accessibility.
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [selected] [ref=e35]
+          - tab "Code" [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - iframe [ref=e88]:
+        - article [ref=f2e4]:
+          - generic [ref=f2e6]:
+            - img "Sarah Anderson" [ref=f2e8]
+            - generic [ref=f2e9]:
+              - heading "Sarah Anderson" [level=2] [ref=f2e10]
+              - paragraph [ref=f2e11]: Product Designer
+            - generic [ref=f2e12]:
+              - generic [ref=f2e13]:
+                - paragraph [ref=f2e14]: 2,847
+                - paragraph [ref=f2e15]: Followers
+              - generic [ref=f2e16]:
+                - paragraph [ref=f2e17]: "342"
+                - paragraph [ref=f2e18]: Following
+              - generic [ref=f2e19]:
+                - paragraph [ref=f2e20]: "156"
+                - paragraph [ref=f2e21]: Posts
+            - generic [ref=f2e22]:
+              - button "Follow" [ref=f2e23] [cursor=pointer]
+              - button "Message" [ref=f2e24] [cursor=pointer]
+  - alert [ref=e50]

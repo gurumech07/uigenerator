@@ -1,0 +1,207 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e51]:
+            - generic [ref=e54]: Create a user profile card component with an avatar, name, title, and some stats like followers and following counts
+            - img [ref=e57]
+          - generic [ref=e80]:
+            - img [ref=e83]
+            - generic [ref=e88]:
+              - generic [ref=e91]: str_replace_editor
+              - separator [ref=e92]
+              - paragraph [ref=e94]: "Now I'll create the UserProfileCard component:"
+              - generic [ref=e97]: str_replace_editor
+              - separator [ref=e98]
+              - generic [ref=e99]:
+                - paragraph [ref=e100]: "Done! The component includes:"
+                - list [ref=e101]:
+                  - listitem [ref=e102]: Avatar with initials and customizable color
+                  - listitem [ref=e103]: Name and title
+                  - listitem [ref=e104]: Followers and following stats with number formatting
+                  - listitem [ref=e105]: Hover effects on stats
+                  - listitem [ref=e106]: Follow button with interactive states
+                  - listitem [ref=e107]: Dark mode support
+                  - listitem [ref=e108]: Responsive design
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [ref=e35]
+          - tab "Code" [selected] [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - generic [ref=e109]:
+        - generic [ref=e115]:
+          - generic [ref=e116]:
+            - generic [ref=e117] [cursor=pointer]:
+              - img [ref=e118]
+              - img [ref=e120]
+              - generic [ref=e122]: components
+            - generic [ref=e125] [cursor=pointer]:
+              - img [ref=e126]
+              - generic [ref=e131]: UserProfileCard.jsx
+          - generic [ref=e133] [cursor=pointer]:
+            - img [ref=e134]
+            - generic [ref=e139]: App.jsx
+        - separator [ref=e140]
+        - code [ref=e145]:
+          - generic [ref=e146]:
+            - generic [ref=e148]:
+              - generic [ref=e285]:
+                - generic [ref=e286] [cursor=pointer]: 
+                - generic [ref=e287]: "1"
+              - generic [ref=e153]: "2"
+              - generic [ref=e289]: "3"
+              - generic [ref=e291]: "4"
+              - generic [ref=e293]: "5"
+              - generic [ref=e295]: "6"
+              - generic [ref=e168]: "7"
+              - generic [ref=e296]:
+                - generic [ref=e297] [cursor=pointer]: 
+                - generic [ref=e298]: "8"
+              - generic [ref=e299]:
+                - generic [ref=e300] [cursor=pointer]: 
+                - generic [ref=e301]: "9"
+              - generic [ref=e302]:
+                - generic [ref=e303] [cursor=pointer]: 
+                - generic [ref=e304]: "10"
+              - generic [ref=e176]: "11"
+              - generic [ref=e178]: "12"
+              - generic [ref=e180]: "13"
+              - generic [ref=e182]: "14"
+              - generic [ref=e305]:
+                - generic [ref=e306] [cursor=pointer]: 
+                - generic [ref=e307]: "15"
+              - generic [ref=e186]: "16"
+              - generic [ref=e309]:
+                - generic [ref=e310] [cursor=pointer]: 
+                - generic [ref=e311]: "17"
+              - generic [ref=e312]:
+                - generic [ref=e313] [cursor=pointer]: 
+                - generic [ref=e314]: "18"
+              - generic [ref=e316]: "19"
+              - generic [ref=e318]:
+                - generic [ref=e319] [cursor=pointer]: 
+                - generic [ref=e320]: "20"
+              - generic [ref=e322]: "21"
+              - generic [ref=e324]: "22"
+              - generic [ref=e326]: "23"
+              - generic [ref=e328]: "24"
+              - generic [ref=e330]: "25"
+              - generic [ref=e331]:
+                - generic [ref=e332] [cursor=pointer]: 
+                - generic [ref=e333]: "26"
+              - generic [ref=e334]:
+                - generic [ref=e335] [cursor=pointer]: 
+                - generic [ref=e336]: "27"
+              - generic [ref=e338]: "28"
+              - generic [ref=e340]: "29"
+              - generic [ref=e341]:
+                - generic [ref=e342] [cursor=pointer]: 
+                - generic [ref=e343]: "30"
+              - generic [ref=e345]: "31"
+              - generic [ref=e347]: "32"
+              - generic [ref=e349]: "33"
+              - generic [ref=e351]: "34"
+              - generic [ref=e353]: "35"
+              - generic [ref=e354]:
+                - generic [ref=e355] [cursor=pointer]: 
+                - generic [ref=e356]: "36"
+              - generic [ref=e357]:
+                - generic [ref=e358] [cursor=pointer]: 
+                - generic [ref=e359]: "37"
+              - generic [ref=e361]:
+                - generic [ref=e362] [cursor=pointer]: 
+                - generic [ref=e363]: "38"
+              - generic [ref=e365]: "39"
+              - generic [ref=e367]: "40"
+              - generic [ref=e368]:
+                - generic [ref=e369] [cursor=pointer]: 
+                - generic [ref=e370]: "41"
+              - generic [ref=e372]: "42"
+              - generic [ref=e374]: "43"
+              - generic [ref=e376]: "44"
+              - generic [ref=e377]:
+                - generic [ref=e378] [cursor=pointer]: 
+                - generic [ref=e379]: "45"
+              - generic [ref=e381]:
+                - generic [ref=e382] [cursor=pointer]: 
+                - generic [ref=e383]: "46"
+              - generic [ref=e385]: "47"
+              - generic [ref=e387]: "48"
+              - generic [ref=e388]:
+                - generic [ref=e389] [cursor=pointer]: 
+                - generic [ref=e390]: "49"
+              - generic [ref=e392]: "50"
+              - generic [ref=e394]: "51"
+              - generic [ref=e396]: "52"
+              - generic [ref=e398]: "53"
+              - generic [ref=e400]: "54"
+            - generic [ref=e247]:
+              - generic [ref=e699]: "export default function UserProfileCard({"
+              - generic [ref=e701]: name = "John Doe",
+              - generic [ref=e703]: title = "Software Engineer",
+              - generic [ref=e705]: followers = 1200,
+              - generic [ref=e707]: following = 450,
+              - generic [ref=e709]: avatarInitials = "JD",
+              - generic [ref=e711]: avatarColor = "bg-purple-500",
+              - generic [ref=e713]: "}) {"
+              - generic [ref=e715]: return (
+              - generic [ref=e717]: <article className="w-full max-w-sm bg-white dark:bg-slate-800 rounded-lg shadow-lg overflow-hidden transition-all
+              - generic [ref=e719]: "{/* Header Background */}"
+              - generic [ref=e721]: <div className="h-24 bg-gradient-to-r from-blue-400 to-purple-500" />
+              - generic [ref=e724]: "{/* Content */}"
+              - generic [ref=e726]: <div className="px-6 pb-6">
+              - generic [ref=e728]: "{/* Avatar */}"
+              - generic [ref=e730]: duration-150 hover:shadow-xl">
+              - generic [ref=e732]: <div className="flex justify-center -mt-12 mb-4">
+              - generic [ref=e734]: <div
+              - generic [ref=e736]: "className={`${avatarColor} w-24 h-24 rounded-full flex items-center justify-center text-white text-2xl font-bold"
+              - generic [ref=e738]: "shadow-lg ring-4 ring-white dark:ring-slate-800`}"
+              - generic [ref=e740]: ">"
+              - generic [ref=e742]: "{avatarInitials}"
+              - generic [ref=e744]: </div>
+              - generic [ref=e746]: </div>
+              - generic [ref=e749]: "{/* Name and Title */}"
+              - generic [ref=e751]: <div className="text-center mb-6">
+              - generic [ref=e753]: <h2 className="text-xl font-bold text-slate-900 dark:text-white mb-1">
+              - generic [ref=e755]: "{name}"
+              - generic [ref=e757]: </h2>
+              - generic [ref=e759]: <p className="text-sm text-slate-600 dark:text-slate-400">
+              - generic [ref=e761]: "{title}"
+              - generic [ref=e763]: </p>
+              - generic [ref=e765]: </div>
+              - generic [ref=e768]: "{/* Stats */}"
+              - generic [ref=e770]: <div className="grid grid-cols-2 gap-4">
+              - generic [ref=e772]: <div className="bg-slate-50 dark:bg-slate-700 rounded-lg p-4 text-center transition-colors duration-150
+              - generic [ref=e774]: hover:bg-slate-100 dark:hover:bg-slate-600">
+              - generic [ref=e776]: <p className="text-2xl font-bold text-slate-900 dark:text-white">
+              - generic [ref=e778]: "{followers.toLocaleString()}"
+              - generic [ref=e780]: </p>
+              - generic [ref=e782]: <p className="text-xs text-slate-600 dark:text-slate-400 mt-1">
+              - generic [ref=e784]: Followers
+              - generic [ref=e786]: </p>
+              - generic [ref=e788]: </div>
+              - generic [ref=e790]: <div className="bg-slate-50 dark:bg-slate-700 rounded-lg p-4 text-center transition-colors duration-150
+              - generic [ref=e792]: hover:bg-slate-100 dark:hover:bg-slate-600">
+              - generic [ref=e794]: <p className="text-2xl font-bold text-slate-900 dark:text-white">
+              - generic [ref=e796]: "{following.toLocaleString()}"
+              - generic [ref=e798]: </p>
+              - generic [ref=e800]: <p className="text-xs text-slate-600 dark:text-slate-400 mt-1">
+              - generic [ref=e802]: Following
+              - generic [ref=e804]: </p>
+              - generic [ref=e806]: </div>
+              - generic [ref=e808]: </div>
+            - textbox "Editor content" [ref=e283]: "}"
+  - alert [ref=e50]
+  - generic [ref=e284]:
+    - alert
+    - alert

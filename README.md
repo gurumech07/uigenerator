@@ -1,4 +1,4 @@
-# UIGen
+# UIGenerator
 
 AI-powered React component generator with live preview.
 
